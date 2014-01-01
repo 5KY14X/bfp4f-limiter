@@ -64,13 +64,13 @@ $configs = array(
      */
     
     // Server IP
-    'general.server_ip' => "127.0.0.1",
+    'general.server_ip' => "109.239.148.200",
 
     //Server PORT
-    'general.server_port' => (int) 1337,
+    'general.server_port' => (int) 27100,
 
     // Server PASSWORD
-    'general.server_password' => "rcon_password",
+    'general.server_password' => "Yurijuzjp6nyk1",
 
     // Is a whole script enabled (force disable script)? 
     'general.script_enabled' => true,
